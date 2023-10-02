@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "ts-node script.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "ts-node": "^10.2.1"
+  }
+}
